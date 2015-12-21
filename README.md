@@ -1,2 +1,2 @@
 # demo
-http://rhymeswithfloral.github.io/demo
+http://rhymeswithfloral.github.io/demo/site/index.html
